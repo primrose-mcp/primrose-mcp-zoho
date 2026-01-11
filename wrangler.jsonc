@@ -10,7 +10,7 @@
   //
   // ==========================================================================
 
-  "name": "lineer-mcp-zoho",
+  "name": "primrose-mcp-zoho",
   "main": "src/index.ts",
   "compatibility_date": "2025-12-01",
   "compatibility_flags": ["nodejs_compat"],

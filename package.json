@@ -1,5 +1,5 @@
 {
-  "name": "lineer-mcp-zoho",
+  "name": "primrose-mcp-zoho",
   "version": "1.0.0",
   "description": "Zoho CRM MCP Server for Cloudflare Workers",
   "type": "module",

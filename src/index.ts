@@ -61,7 +61,7 @@ import {
 // MCP Server Configuration
 // =============================================================================
 
-const SERVER_NAME = 'lineer-mcp-zoho';
+const SERVER_NAME = 'primrose-mcp-zoho';
 const SERVER_VERSION = '1.0.0';
 
 // =============================================================================
